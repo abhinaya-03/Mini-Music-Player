@@ -7,7 +7,7 @@ Welcome to my **Mini Music Player** project! This lightweight music player is bu
 
 ---
 
-## 📸 Screenshot  
+## 📸 Website  
 Below is a screenshot of the music player to give you a glimpse of its design and functionality:  
 <img width="744" alt="Website" src="https://github.com/user-attachments/assets/a5cce202-05d5-4be0-bd02-7ecce0b9910c">
 
